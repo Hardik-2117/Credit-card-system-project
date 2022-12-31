@@ -1,0 +1,6 @@
+Trans Id : 6494980308398
+card NUmber : 8499324904717892
+Type : purchase
+date : 12/02/2022
+description : Pantaloons
+Amount : Rs. 5000

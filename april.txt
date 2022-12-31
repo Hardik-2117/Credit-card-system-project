@@ -1,0 +1,6 @@
+Trans Id : 6494980308398
+card NUmber : 8499324904717892
+Type : payment
+date : 12/04/2022
+description : regarding amazon product
+Amount : Rs. 3200

@@ -1,0 +1,12 @@
+Card Number : 6789345678876784
+Customer Id : user567
+User Name : XYZ ABC
+Card Type : Silver 
+Holder Date : 16/05/2022
+Expiry Date : 22/12/2027
+Credit Limit : 5,00,000
+Phone : 639XX99XX6
+Available Credit limit : 3,00,000
+Pay Due Date : 5/06/2022
+Current Balance : 2,00,000
+Card Status : Valid card

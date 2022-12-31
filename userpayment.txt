@@ -1,0 +1,6 @@
+
+ date of transaction : 20/5/22
+Amount : 786
+Description : ghfsgfjf
+Transaction Id : AX67
+Type : purchase

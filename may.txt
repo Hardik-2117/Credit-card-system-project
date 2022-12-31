@@ -1,0 +1,6 @@
+Trans Id : 6494980308398
+card NUmber : 8499324904717892
+Type : purchase
+date : 22/05/2022
+description : Xyzzz mgdyikk jiguf
+Amount : Rs. 8000
